@@ -28,8 +28,8 @@ func TestNew_Defaults(t *testing.T) {
 		t.Error("Expected ReportCaller to be true by default")
 	}
 
-	if _, ok := logger.Formatter.(*logrus.TextFormatter); !ok {
-		t.Error("Expected TextFormatter by default")
+	if _, ok := logger.Formatter.(*CustomFormatter); !ok {
+		t.Error("Expected CustomFormatter by default")
 	}
 
 	if logger.Out != os.Stdout {
