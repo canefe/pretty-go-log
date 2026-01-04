@@ -8,7 +8,7 @@
     <img src="https://github.com/canefe/pretty-go-log/actions/workflows/ci.yml/badge.svg" alt="Build Status" />
   </a>
   <a href="https://goreportcard.com/report/github.com/canefe/pretty-go-log">
-    <img src="https://goreportcard.com/badge/github.com/canefe/pretty-go-log" alt="Go Report Card" />
+    <img src="https://goreportcard.com/badge/github.com/canefe/pretty-go-log?query" alt="Go Report Card" />
   </a>
 
   <br />
