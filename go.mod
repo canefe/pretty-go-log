@@ -1,6 +1,6 @@
 module github.com/canefe/pretty-go-log
 
-go 1.25.5
+go 1.24
 
 require (
 	github.com/sirupsen/logrus v1.9.3

@@ -13,7 +13,7 @@
 
   <br />
 
-  <img src="https://img.shields.io/badge/go-1.25.5-00ADD8.svg" alt="Go Version" />
+  <img src="https://img.shields.io/badge/go-1.24-00ADD8.svg" alt="Go Version" />
   <img src="https://img.shields.io/badge/logrus-1.9.3-blue.svg" alt="Logrus" />
   <img src="https://img.shields.io/badge/output-console%20%7C%20file%20%7C%20multi-brightgreen.svg" alt="Outputs" />
 </div>
