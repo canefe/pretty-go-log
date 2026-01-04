@@ -1,0 +1,18 @@
+# --- Go specific ---
+bin/
+pretty-go-log
+*.test
+*.out
+vendor/
+
+# --- Project specific ---
+**/logs/
+*.log
+logrus/logs/
+
+# --- OS / IDE specific ---
+.DS_Store
+.idea/
+.vscode/
+*.swp
+.cache/
