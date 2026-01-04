@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/github/v/release/canefe/pretty-go-log?include_prereleases" alt="Latest Version" />
   </a>
   <a href="https://github.com/canefe/pretty-go-log/actions">
-    <img src="https://github.com/canefe/pretty-go-log/actions/workflows/go.yml/badge.svg" alt="Build Status" />
+    <img src="https://github.com/canefe/pretty-go-log/actions/workflows/ci.yml/badge.svg" alt="Build Status" />
   </a>
   <a href="https://goreportcard.com/report/github.com/canefe/pretty-go-log">
     <img src="https://goreportcard.com/badge/github.com/canefe/pretty-go-log" alt="Go Report Card" />
