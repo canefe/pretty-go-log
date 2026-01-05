@@ -1,21 +1,10 @@
-<div align="center" style="margin-bottom: 1rem;">
+<div align="center">
   <h1 style="font-size: 2rem;margin: 0;"> pretty-go-log </h1>
-  
-  <a href="https://github.com/canefe/pretty-go-log/releases">
-    <img src="https://img.shields.io/github/v/release/canefe/pretty-go-log?include_prereleases" alt="Latest Version" />
-  </a>
-  <a href="https://github.com/canefe/pretty-go-log/actions">
-    <img src="https://github.com/canefe/pretty-go-log/actions/workflows/ci.yml/badge.svg" alt="Build Status" />
-  </a>
-  <a href="https://goreportcard.com/report/github.com/canefe/pretty-go-log">
-    <img src="https://goreportcard.com/badge/github.com/canefe/pretty-go-log?query" alt="Go Report Card" />
-  </a>
-
-  <br />
-
-  <img src="https://img.shields.io/badge/go-1.24-00ADD8.svg" alt="Go Version" />
-  <img src="https://img.shields.io/badge/logrus-1.9.3-blue.svg" alt="Logrus" />
-  <img src="https://img.shields.io/badge/output-console%20%7C%20file%20%7C%20multi-brightgreen.svg" alt="Outputs" />
+  <p>
+    <a href="https://github.com/canefe/pretty-go-log/releases"><img src="https://img.shields.io/github/v/release/canefe/pretty-go-log?include_prereleases&style=flat-square" alt="Latest Version" /></a>&nbsp;
+    <a href="https://github.com/canefe/pretty-go-log/actions"><img src="https://img.shields.io/github/actions/workflow/status/canefe/pretty-go-log/ci.yml?style=flat-square" alt="Build Status" /></a>&nbsp;
+    <a href="https://goreportcard.com/report/github.com/canefe/pretty-go-log"><img src="https://goreportcard.com/badge/github.com/canefe/pretty-go-log?style=flat-square" alt="Go Report Card" /></a>
+  </p>
 </div>
 
 A small Go package that gives logrus a cleaner, structured, and visually aligned output style with bracketed tags, optional colors, and multi-output support.
